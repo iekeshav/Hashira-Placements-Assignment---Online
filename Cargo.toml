@@ -1,0 +1,5 @@
+[dependencies]
+serde_json = "1.0"
+num-bigint = "0.4"
+num-rational = "0.3"
+num-traits = "0.2"
